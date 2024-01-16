@@ -16,3 +16,5 @@
         state: present
         productTypes:
           - switches
+          - wireless
+          - appliances
